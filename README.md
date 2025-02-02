@@ -58,9 +58,18 @@ This dashboard empowers stakeholders with:
 - Add predictive analytics to forecast sales trends.  
 - Integrate customer feedback data for a holistic view of market dynamics.  
 
+
+
 ---
 
 ## ✨ Conclusion  
 This dashboard encapsulates the power of analytics in transforming raw data into meaningful insights, helping businesses thrive in the competitive e-commerce landscape.  
 
 Made with 💙 by **#ArunCooksData**
+
+Feel free to reach out to me for any questions or collaboration opportunities.
+
+## 🔗 Connect with me :
+- **Linkedin**: [linkedin.com/in/arun](https://www.linkedin.com/in/arun-deep-04964b258/) 🌐
+- **GitHub**: [github.com/ArunCooksData](https://github.com/ArunCooksData) 👨‍💻
+- **Email**: [arundeepp9393@gmail.com](mailto:arundeepp9393@gmail.com) 📧
