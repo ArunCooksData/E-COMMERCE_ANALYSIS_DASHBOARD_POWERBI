@@ -1,4 +1,4 @@
-![ecommerce Logo](./E-COMMERCE SALES DASHBOARD.png)
+![E-COMMERCE SALES DASHBOARDLogo](./E-COMMERCE SALES DASHBOARD.jpg)
 
 # 📊 E-Commerce Sales Dashboard 🚀  
 
